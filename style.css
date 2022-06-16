@@ -1,0 +1,13 @@
+.conteneur{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+img{
+    max-height: 600px;
+    max-width: 500px;
+    outline: 5px solid red;
+    margin-bottom: 50px
+};
